@@ -8,10 +8,10 @@ Self-published research by Matt Lenzie / Care Homes Finance. Contact: enquiries@
 
 The report compares charges, financing events and borrowing companies across complete observation periods. It is an analytical adaptation of the [Care Home Finance Report 2026](https://carehomesfinance.co.uk/reports/care-home-finance-2026/), not an independent survey. Input is seven published aggregate rows. Original microdata selection cannot be reproduced from this extract.
 
-## Concentration within the leading group
+## The leading lender's growing share
 
-[Read Research Note 02 and its reproducible data supplement on Zenodo](https://zenodo.org/records/23913583) | [Permanent DOI](https://doi.org/10.5281/zenodo.23913583)
+[Care Home Finance: The Leading Lender's Growing Share, 2023 to 2025](https://zenodo.org/records/23913583) | [Permanent DOI](https://doi.org/10.5281/zenodo.23913583)
 
-For readers asking how financing events are distributed across lenders, this companion analysis separates cumulative top-one, top-three and top-five shares into four mutually exclusive rank bands for 2023-2025. It explains how the leading rank's share can increase substantially while the top-five total changes relatively little. The activity-measures note above explains the underlying counting unit. Both notes share Matt Lenzie / Care Homes Finance authorship and the same parent source; they are not independent corroboration.
+The leading bank or specialist lender accounted for 15.2% of recorded financing events in 2023 and 24.7% in 2025. The top five lenders' combined share changed little. This report explains the figures and what they can tell care-home operators. A financing event is a group of security filings that may relate to one finance arrangement; it does not measure the amount lent. Both notes are by Matt Lenzie for Care Homes Finance and use the same source data, so they are not separate surveys.
 
 Source rights and credits remain with the original sources. No blanket licence is assigned. Care Homes Finance arranges finance and does not lend.
