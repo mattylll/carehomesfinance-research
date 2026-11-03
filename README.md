@@ -2,6 +2,14 @@
 
 Self-published research by Matt Lenzie / Care Homes Finance. Contact: enquiries@carehomesfinance.co.uk.
 
+## Lender activity in 2026
+
+[Care Home Finance 2026: Lender Activity](https://www.kaggle.com/datasets/constructioncapital/care-home-finance-2026-lender-activity)
+
+Challenger and specialist banks recorded 117 financing events in January to August 2026, compared with 81 in the same months of 2025. The report and calculation package show how changes across lender groups add up to the national increase of 28 events. It includes the three-page report, source counts, calculated tables, Python code and a starter notebook. The public data card can be read without signing in; Kaggle requires sign-in for its archive download.
+
+This uses the same [Care Home Finance Report 2026](https://carehomesfinance.co.uk/reports/care-home-finance-2026/) source programme as the counting-method note below. Event counts approximate finance arrangements and do not measure amounts lent.
+
 ## National activity measures
 
 [Read the four-page report](CHF-2026-R01/care-home-finance-activity-measures.pdf) | [Download report and backing files](CHF-2026-R01-package.zip) | [Reproduction instructions](CHF-2026-R01/README.md)
