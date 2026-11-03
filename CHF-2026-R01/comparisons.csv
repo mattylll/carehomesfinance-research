@@ -1,0 +1,10 @@
+baseline,comparison,metric,baseline_count,comparison_count,change,percentage_change
+2023,2025,Charges,2036,2399,363,17.829077
+2023,2025,Financing events,914,1136,222,24.28884
+2023,2025,Borrowing companies,1244,1611,367,29.501608
+H1 2025,H1 2026,Charges,1177,1138,-39,-3.313509
+H1 2025,H1 2026,Financing events,551,552,1,0.181488
+H1 2025,H1 2026,Borrowing companies,797,802,5,0.627353
+Jan to Aug 2025,Jan to Aug 2026,Charges,1540,1574,34,2.207792
+Jan to Aug 2025,Jan to Aug 2026,Financing events,735,763,28,3.809524
+Jan to Aug 2025,Jan to Aug 2026,Borrowing companies,1043,1047,4,0.383509

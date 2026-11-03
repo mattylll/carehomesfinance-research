@@ -1,0 +1,7 @@
+file,field,definition
+lending-activity.csv,Period,Published calendar observation window; overlapping windows must not be added
+lending-activity.csv,Charges,Registered charge count in the observed cohort
+lending-activity.csv,Financing events,Distinct lender and creation-date and borrower-registered-postcode combinations
+lending-activity.csv,Borrowing companies,Company count for the observation window
+comparisons.csv,percentage_change,100 times comparison_count divided by baseline_count minus 100
+filing-intensity.csv,charges_per_event,Aggregate charges divided by aggregate financing events; not an individual-facility mean

@@ -1,0 +1,11 @@
+{
+  "source": "Care Homes Finance",
+  "url": "https://carehomesfinance.co.uk/reports/care-home-finance-2026/",
+  "retrieved": "2026-11-03",
+  "companies_house_snapshot": "2026-10-01",
+  "charges_complete_to": "2026-08-31",
+  "input_file": "lending-activity.csv",
+  "sha256": "0c87b2f074ec3f18313850e2140f4dc10827ee45bede6204625d3c1817fe03df",
+  "input_level": "Published aggregates, not microdata",
+  "rights": "Retain original source rights; no new blanket licence assigned"
+}

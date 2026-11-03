@@ -1,0 +1,136 @@
+{
+  "source_rows": 7,
+  "comparisons": [
+    {
+      "baseline": "2023",
+      "comparison": "2025",
+      "metric": "Charges",
+      "baseline_count": 2036,
+      "comparison_count": 2399,
+      "change": 363,
+      "percentage_change": 17.829077
+    },
+    {
+      "baseline": "2023",
+      "comparison": "2025",
+      "metric": "Financing events",
+      "baseline_count": 914,
+      "comparison_count": 1136,
+      "change": 222,
+      "percentage_change": 24.28884
+    },
+    {
+      "baseline": "2023",
+      "comparison": "2025",
+      "metric": "Borrowing companies",
+      "baseline_count": 1244,
+      "comparison_count": 1611,
+      "change": 367,
+      "percentage_change": 29.501608
+    },
+    {
+      "baseline": "H1 2025",
+      "comparison": "H1 2026",
+      "metric": "Charges",
+      "baseline_count": 1177,
+      "comparison_count": 1138,
+      "change": -39,
+      "percentage_change": -3.313509
+    },
+    {
+      "baseline": "H1 2025",
+      "comparison": "H1 2026",
+      "metric": "Financing events",
+      "baseline_count": 551,
+      "comparison_count": 552,
+      "change": 1,
+      "percentage_change": 0.181488
+    },
+    {
+      "baseline": "H1 2025",
+      "comparison": "H1 2026",
+      "metric": "Borrowing companies",
+      "baseline_count": 797,
+      "comparison_count": 802,
+      "change": 5,
+      "percentage_change": 0.627353
+    },
+    {
+      "baseline": "Jan to Aug 2025",
+      "comparison": "Jan to Aug 2026",
+      "metric": "Charges",
+      "baseline_count": 1540,
+      "comparison_count": 1574,
+      "change": 34,
+      "percentage_change": 2.207792
+    },
+    {
+      "baseline": "Jan to Aug 2025",
+      "comparison": "Jan to Aug 2026",
+      "metric": "Financing events",
+      "baseline_count": 735,
+      "comparison_count": 763,
+      "change": 28,
+      "percentage_change": 3.809524
+    },
+    {
+      "baseline": "Jan to Aug 2025",
+      "comparison": "Jan to Aug 2026",
+      "metric": "Borrowing companies",
+      "baseline_count": 1043,
+      "comparison_count": 1047,
+      "change": 4,
+      "percentage_change": 0.383509
+    }
+  ],
+  "filing_intensity": [
+    {
+      "period": "2023",
+      "charges": 2036,
+      "financing_events": 914,
+      "charges_per_event": 2.227571
+    },
+    {
+      "period": "2024",
+      "charges": 2325,
+      "financing_events": 1085,
+      "charges_per_event": 2.142857
+    },
+    {
+      "period": "2025",
+      "charges": 2399,
+      "financing_events": 1136,
+      "charges_per_event": 2.111796
+    },
+    {
+      "period": "H1 2025",
+      "charges": 1177,
+      "financing_events": 551,
+      "charges_per_event": 2.136116
+    },
+    {
+      "period": "H1 2026",
+      "charges": 1138,
+      "financing_events": 552,
+      "charges_per_event": 2.061594
+    },
+    {
+      "period": "Jan to Aug 2025",
+      "charges": 1540,
+      "financing_events": 735,
+      "charges_per_event": 2.095238
+    },
+    {
+      "period": "Jan to Aug 2026",
+      "charges": 1574,
+      "financing_events": 763,
+      "charges_per_event": 2.06291
+    }
+  ],
+  "source_report": "https://carehomesfinance.co.uk/reports/care-home-finance-2026/",
+  "limitations": [
+    "Aggregate recalculation only; original matching and deduplication cannot be independently reproduced from this extract.",
+    "Financing events approximate facilities; no loan amounts, pricing, leverage or borrower demand are observed.",
+    "Annual, H1 and January-August windows overlap and must not be added."
+  ]
+}
