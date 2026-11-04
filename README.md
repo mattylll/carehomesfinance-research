@@ -2,6 +2,12 @@
 
 Self-published research by Matt Lenzie / Care Homes Finance. Contact: enquiries@carehomesfinance.co.uk.
 
+## Regional activity in the first half of 2026
+
+[Care Home Finance 2026: Where Activity Is Rising and Falling](https://www.calameo.com/books/00829566942a230cdfeb3)
+
+The three-page regional note compares H1 2026 with H1 2025. Four reporting regions rose and three fell. Midlands increased from 133 to 146 financing events; East of England fell from 64 to 53. Its chart, table and methods explain why overlapping regional counts must not be added to the separate national total of 552 events. The report is publicly readable on Calameo and uses the same source programme and authorship as the other notes here. The lender comparison below covers the later January to August period.
+
 ## Lender activity in 2026
 
 [Care Home Finance 2026: Lender Activity](https://www.kaggle.com/datasets/constructioncapital/care-home-finance-2026-lender-activity)
