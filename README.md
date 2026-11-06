@@ -2,6 +2,12 @@
 
 Self-published research by Matt Lenzie / Care Homes Finance. Contact: enquiries@carehomesfinance.co.uk.
 
+## Age of outstanding bridging charges, October 2026
+
+[Care Home Finance 2026: Bridging Charges More Than Two Years Old](https://anyflip.com/solvf/cfdv/)
+
+In the 1 October 2026 snapshot, 110 of 204 outstanding charges in the selected bridging and short-term lender subset were more than 24 months old (53.9%). This two-page note separates the overlapping source counts into three age bands and explains why a registered charge does not establish unpaid debt or an overdue loan. Known term lenders are excluded. It uses the same source programme and authorship as the reports below. This is a stock of registered charges at one date; the lender-activity report below measures a flow of financing events over January to August. Their units and periods must not be combined.
+
 ## Regional activity in the first half of 2026
 
 [Care Home Finance 2026: Where Activity Is Rising and Falling](https://www.calameo.com/books/00829566942a230cdfeb3)
