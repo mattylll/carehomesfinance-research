@@ -2,6 +2,12 @@
 
 Self-published research by Matt Lenzie / Care Homes Finance. Contact: enquiries@carehomesfinance.co.uk.
 
+## Care home size by region, June 2026
+
+[Care Home Finance 2026: Care Home Size by Region](https://www.datawrapper.de/_/O74qP/)
+
+The interactive chart compares average registered beds per home across the six English regional groups in the [Care Home Finance Report 2026](https://carehomesfinance.co.uk/reports/care-home-finance-2026/). The means range from 35.1 in North East and Yorkshire to 30.1 in South West. All six means are reproduced from the supplied bed and location counts, rounded to one decimal. The public chart includes a CSV download, coverage notes and CQC Open Government Licence attribution. The regional rows contain six fewer locations than the national narrative; that difference is unresolved and no national average is reconstructed. This is registered capacity at 3 June 2026, a separate measure from the financing events in the regional activity note below. It is by the same author and uses the same source programme.
+
 ## Age of outstanding bridging charges, October 2026
 
 [Care Home Finance 2026: Bridging Charges More Than Two Years Old](https://anyflip.com/solvf/cfdv/)
